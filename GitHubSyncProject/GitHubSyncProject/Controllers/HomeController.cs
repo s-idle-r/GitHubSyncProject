@@ -10,6 +10,7 @@ namespace GitHubSyncProject.Controllers
     {
         public ActionResult Index()
         {
+        // goht jetz de scheiss????
             return View();
         }
 
